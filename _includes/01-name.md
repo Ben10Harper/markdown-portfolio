@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Ben Harper
+## For my CS 471 class
