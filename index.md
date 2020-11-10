@@ -2,10 +2,12 @@
 layout: default
 ---
 
-# Ben Harper
+{% include 01-name.md %}
 
 <br>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
+
+{%includes 03-links.md%}
